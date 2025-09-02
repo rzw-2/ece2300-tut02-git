@@ -4,3 +4,5 @@ orange
 banana
 banana
 peach
+lemon
+date
