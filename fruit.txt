@@ -5,4 +5,4 @@ banana
 peach
 lemon
 date
-kiwi
+kiwimelon
